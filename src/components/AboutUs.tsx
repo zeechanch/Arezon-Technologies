@@ -20,7 +20,7 @@ const devs: Array<Dev> = [
     contact: 942683245106065448,
     github: 'PranoyMajumdar',
     avatar:
-      'https://cdn.discordapp.com/avatars/942683245106065448/afabeeecc85fafcc1100709481824350.webp?size=2048',
+      'public/zeeshan1.JPG',
   },
   {
     name: 'Maida T',
@@ -29,7 +29,7 @@ const devs: Array<Dev> = [
       "A creative technologist passionate about building solutions that empower people and businesses.",
     contact: 739454321661313025,
     github: 'ArnavK-09',
-    avatar: 'https://avatars.githubusercontent.com/u/69188140?v=4',
+    avatar: 'public/maida.jpg',
   },
 ]
 
