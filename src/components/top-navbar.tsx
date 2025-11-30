@@ -69,7 +69,7 @@ export const TopNavbar = () => {
         <div className="flex items-center justify-between h-22">
           <div className="flex items-center py-2">
             <Link
-              to="/"
+              to={"/" as any}
               className="flex-shrink-0 flex gap-2 items-center justify-center"
             >
               <img src={'/arezon-logo.png'} className="size-20" />
