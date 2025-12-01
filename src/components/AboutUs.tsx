@@ -18,9 +18,8 @@ const devs: Array<Dev> = [
       "A visionary developer committed to building digital products that combine innovation with real-world functionality.",
     pos: 'Founder, Senior Developer',
     contact: 942683245106065448,
-    github: 'PranoyMajumdar',
-    avatar:
-      '/Arezon-Technologies/public/zeeshan1.JPG',
+    github: 'zeechanch',
+    avatar: '/zeeshan1.JPG',
   },
   {
     name: 'Maida T',
@@ -28,8 +27,8 @@ const devs: Array<Dev> = [
     content:
       "A creative technologist passionate about building solutions that empower people and businesses.",
     contact: 739454321661313025,
-    github: 'ArnavK-09',
-    avatar: '/Arezon-Technologies/public/maida.jpg',
+    github: 'maidatahir',
+    avatar: '/maida.jpg',
   },
 ]
 
